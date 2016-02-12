@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "car_center_ctrl", "car_ctrl.vcxproj", "{FD22D3E2-7D81-4B1E-B7C0-3B6C068212A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD22D3E2-7D81-4B1E-B7C0-3B6C068212A4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD22D3E2-7D81-4B1E-B7C0-3B6C068212A4}.Debug|Win32.Build.0 = Debug|Win32
+		{FD22D3E2-7D81-4B1E-B7C0-3B6C068212A4}.Release|Win32.ActiveCfg = Release|Win32
+		{FD22D3E2-7D81-4B1E-B7C0-3B6C068212A4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
